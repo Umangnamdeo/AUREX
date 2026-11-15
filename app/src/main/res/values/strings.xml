@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AUREX</string>
+    <string name="a11y_description">AUREX uses this service only to detect presses of the physical volume buttons and to draw its volume interface on top of other apps. It does not read your screen, text, or any other content.</string>
+</resources>
