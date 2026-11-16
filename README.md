@@ -16,6 +16,7 @@
 <img src="assets/readme/badge-prs.svg" alt="PRs welcome" height="28">
 </p>
 </div>
+## Website https://umangnamdeo.github.io/AUREX/
 <h3 id="overview"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/dark/h-overview.svg"><img src="assets/readme/light/h-overview.svg" alt="Overview" width="100%"></picture></h3>
 AUREX is an open-source Android app that replaces the stock volume panel with a sleek, fully customizable one. Press the volume buttons and a slim pill slides in from the edge of your screen. Drag it to set the volume, tap the speaker to mute, or long-press it to open a full audio mixer.
 You choose how it looks and behaves: four styles, eight built-in themes plus your own, and control over size, position, colors, animation and haptics. The app itself is a dark, atmospheric Jetpack Compose interface with an interactive 3D volume orb. There are no ads and no accounts.
